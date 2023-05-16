@@ -1,0 +1,5 @@
+#baseURL = 'http://example.org/'
+baseURL = 'https://golangnow.com/'
+languageCode = 'en-us'
+title = 'Golang now'
+theme = 'ananke'
