@@ -1,10 +1,10 @@
-
+---
 categories:
   - Kubernetes
 tags:
   - Kubernetes
   - CKS
-title: "Yêu Minh Thu... Shutdown unnecessary process in Kubernetes"
+title: "Yêu Minh Thu ❤ Shutdown unnecessary process in Kubernetes"
 date: 2023-05-01T18:29:30+07:00
 draft: false
 ---
